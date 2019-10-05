@@ -25,7 +25,8 @@
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
     "jshint": "^2.10.2",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.1",
+    "npm": "^6.11.3"
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
